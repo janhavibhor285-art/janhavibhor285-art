@@ -1,7 +1,7 @@
 # 🌟 Welcome to Janhavi Bhor's GitHub Profile 🌟
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Janhavi+Bhor+👋;Full+Stack+Developer;IoT+%26+Automation+Enthusiast;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Janhavi+Bhor;IoT+%26+Automation+Engineer;Full+Stack+Web+Developer;Hydroponics+%26+Precision+Farming;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
 
 ---
@@ -45,6 +45,12 @@
   &nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=janhavibhor285-art&theme=radical&hide_border=true" alt="Janhavi's streak" height="165"/>
 </p>
+
+---
+
+## 📈 Contribution Graph
+
+[![Janhavi's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=janhavibhor285-art&theme=react-dark&hide_border=true)](https://github.com/janhavibhor285-art)
 
 ---
 
